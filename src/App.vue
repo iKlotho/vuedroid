@@ -7,6 +7,8 @@
 </template>
 
 <style>
+@import './style/app.css';
+@import './style/devtools.css';
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
